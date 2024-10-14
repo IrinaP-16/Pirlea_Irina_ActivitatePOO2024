@@ -3,3 +3,9 @@
 *.seminar.vcxproj
 *.seminar.vcxproj.filters
 *.seminar.vcxproj.user
+*.vcxproj.filters
+*.vcxproj.user
+.gitignore
+*.vs
+*x64/
+*.sln
