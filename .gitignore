@@ -1,0 +1,5 @@
+*.vcxproj
+*.seminar
+*.seminar.vcxproj
+*.seminar.vcxproj.filters
+*.seminar.vcxproj.user
