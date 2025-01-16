@@ -56,6 +56,9 @@ int main() {
 	for (int i = 0; i < v.size(); i++) {
 		s = s + v[i];
 	}
+
+	//float suma=accumulate(v.begin(),v.end(),0); // echivalent pt for-ul de mai sus pt a det suma
+
 	if (v.size() > 0) {
 		cout << "Media este: " << s / v.size() << endl;
 	}
